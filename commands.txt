@@ -1,0 +1,4 @@
+rm -f .bash* .profile
+git clone https://github.com/ortlaz/python_web-project /home/box
+git pull
+bash init.sh
